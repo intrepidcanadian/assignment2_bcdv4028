@@ -1,0 +1,7 @@
+{
+  "name": "celo-nft-marketplace",
+  "packageManager": "yarn@3.6.1",
+  "dependencies": {
+    "@graphprotocol/graph-cli": "^0.58.0"
+  }
+}
