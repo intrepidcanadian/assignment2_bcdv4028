@@ -1,3 +1,4 @@
 .env
 .yarn
 hardhat
+node_modules/

@@ -1,0 +1,22 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@rainbow-me/rainbowkit": "^1.0.11",
+    "ethers": "^6.7.1",
+    "graphql": "^16.8.1",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "urql": "^4.0.5",
+    "viem": "^1.14.0",
+    "wagmi": "^1.4.2"
+  }
+}
